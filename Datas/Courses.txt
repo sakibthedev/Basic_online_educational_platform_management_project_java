@@ -1,0 +1,18 @@
+dasdad,Course Name: C++,7500/-
+sdaefawfer,Course Name: C++,7500/-
+0000111,Course Name: Integration,7000/-
+55555,Course Name: C++,7500/-
+12345,Course Name: Integration,7000/-
+12348,Course Name: English,6000/-
+5555,Java,8000
+44444,Course Name: Figma,3000/-
+44444,Course Name: English,6000/-
+12121,Course Name: C++,0/-
+12122,Course Name: Data Science,0/-
+12345,Course Name: C++,7500/-
+12346,Course Name: English,6000/-
+12348,Course Name: Figma,3000/-
+12345,ReactJS2,5000/-
+1234,Course Name: Integration,7000/-
+12125,ReactJS,9500/-/-
+12135,Cybersecurity,4300/-/-

@@ -1,0 +1,6 @@
+0001,Sakib Raaz,sakib@skillpros.com,1234
+adminID1,admin,admin@example.com,admin
+0002,Jalish,jalish@skillpros.com,1234
+0003,tahomina,tahomina@skillpros.com,1234
+0004,turzo,turzo@skillpros.com,1234
+supervisor1,Mazid-Ul Haque,mazid@aiub.edu,1234
